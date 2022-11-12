@@ -19,7 +19,7 @@ LINK: https://athul-22.github.io/weather
 #### 🌈 IMAGE EDITOR - ONLINE 
 LINK: https://athul-22.github.io/image-editor-online
 
-#### 🌈 IMAGE EDITOR - ONLINE 
+#### 🌈 PASSWORD STRENGTH INDICATOR
 LINK: https://athul-22.github.io/password-strength-indicator
 
 #### 🌈 TODO LIST
