@@ -11,6 +11,9 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 ---
 ## OPEN SOURCE PROJECTS AND LINK 👇
 
+### 🌈 OPEN SEARCH BOT - GET MOST PRECISE ANSWERS
+LINK: https://athul-22.github.io/OPEN-SEARCH-BOT/
+
 #### 🌈 MIC OS - ALT OF MAC OS 
 LINK: https://athul-22.github.io/micos/
 
