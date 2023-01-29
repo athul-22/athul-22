@@ -1,5 +1,5 @@
 ## Hi there,👋 Iam Athul Nambiar
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,c,cpp,php,nodejs,flutter,androidstudio,codepen,dart,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,jquery,bootstrap,c,cpp,php,nodejs,androidstudio,codepen,firebase,github)](https://skillicons.dev)
 
 FullStack Developer | App , UI , UX Developer |  Exploring curiously | 
 
@@ -13,25 +13,18 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 
 ### 🌈 OPEN SEARCH BOT - GET MOST PRECISE ANSWERS
 LINK: https://athul-22.github.io/OPEN-SEARCH-BOT/
-
 #### 🌈 MIC OS - ALT OF MAC OS 
 LINK: https://athul-22.github.io/micos/
-
 #### 🌈 WEATHER USING API
 LINK: https://athul-22.github.io/weather
-
 #### 🌈 IMAGE EDITOR - ONLINE 
 LINK: https://athul-22.github.io/image-editor-online
-
 #### 🌈 PASSWORD STRENGTH INDICATOR
 LINK: https://athul-22.github.io/password-strength-indicator
-
 #### 🌈 TODO LIST
 LINK: https://athul-22.github.io/todo/
-
 #### 🌈 RESPONSIVE NAVIGATION MENU
 LINK: https://athul-22.github.io/responsive-navigation
-
 #### 🌈 CALCULATOR
 LINK: https://athul-22.github.io/calculator
 
