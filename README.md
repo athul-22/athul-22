@@ -22,6 +22,6 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 ---
 [![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=athul-22)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656)](https://github.com/athul-22/readme-components)
+
 
 
