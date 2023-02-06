@@ -20,7 +20,7 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 ##### 🍀 [RESPONSIVE NAVIGATION MENU](https://athul-22.github.io/responsive-navigation)
 ##### 📚 [CALCULATOR](https://athul-22.github.io/calculator)
 ---
-[![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=athul-22)](https://github.com/anuraghazra/github-readme-stats)
+[![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=athul-22)]
 ---
 
 
