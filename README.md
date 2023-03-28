@@ -25,3 +25,5 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 ---
 ![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=athul-22)
 ---
+![](https://komarev.com/ghpvc/?username=athul-22&style=flat-square)
+
