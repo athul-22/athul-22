@@ -9,7 +9,6 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 - ❤️ JavaScript, Bootstarp , C, C++ , JQuery , CSS3 , HTML5
 - 🧪 INTERMEDIATE - PHP , SQL , Flutter -->
 
-
 ## OPEN SOURCE PROJECTS AND LINK 👇
 
 
