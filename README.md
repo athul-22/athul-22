@@ -11,7 +11,6 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 
 
 
-
 ## OPEN SOURCE PROJECTS AND LINK 👇
 
 ##### 🎉 [WEBZ SOCIAL NETWORK ](https://webz-smn.netlify.app/)
