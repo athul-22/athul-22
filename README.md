@@ -7,7 +7,8 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 
 <!--- 🌱 I’m currently learning  Flutter, DSA 
 - ❤️ JavaScript, Bootstarp , C, C++ , JQuery , CSS3 , HTML5
-- 🧪 INTERMEDIATE - PHP , SQL , Flutter -->
+- 🧪 INTERMEDIATE - PHP , SQL, Flutter -->
+
 
 ## OPEN SOURCE PROJECTS AND LINK 👇
 
