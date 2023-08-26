@@ -25,7 +25,6 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 ##### 📝 [TODO LIST](https://athul-22.github.io/todo/)
 ##### 🍀 [RESPONSIVE NAVIGATION MENU](https://athul-22.github.io/responsive-navigation)
 ##### 📚 [CALCULATOR](https://athul-22.github.io/calculator)
-
 ---
 ---
 ![](https://komarev.com/ghpvc/?username=athul-22&style=flat-square)
