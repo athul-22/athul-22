@@ -20,7 +20,6 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 ##### 🤖 [OPEN SEARCH BOT - GET MOST PRECISE ANSWERS](https://athul-22.github.io/OPEN-SEARCH-BOT/)
 ##### 🌈 [MIC OS - ALT OF MAC OS](https://athul-22.github.io/micos/)
 ##### 🌦️ [WEATHER USING API](https://athul-22.github.io/weather)
-
 ##### 🏞️ [IMAGE EDITOR - ONLINE](https://athul-22.github.io/image-editor-online)
 
 ##### 🔐 [PASSWORD STRENGTH INDICATOR](https://athul-22.github.io/password-strength-indicator) 
