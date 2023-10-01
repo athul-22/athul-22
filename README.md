@@ -1,5 +1,5 @@
 ## Hi there,👋 Iam Athul Nambiar
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,sqlite,figma,fastapi,express,tailwind,js,jquery,bootstrap,c,androidstudio,codepen,firebase,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,figma,fastapi,express,tailwind,js,jquery,bootstrap,c,androidstudio,codepen,firebase,github&theme=light)](https://skillicons.dev)
 
 FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 
