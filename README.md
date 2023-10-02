@@ -9,8 +9,6 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 - ❤️ JavaScript, Bootstrap , C, C++ , JQuery , CSS3 , HTML5
 - 🧪 INTERMEDIATE - PHP, SQL, Flutter -->     
 ## OPEN SOURCE PROJECTS AND LINKS 👇   
-
-     
  
 ##### 🎉 [WEBZ SOCIAL NETWORK ](https://webz-client.vercel.app)
 #####  ❤️ [REACT TODO WEB APP](https://react-web-todo.netlify.app/)
