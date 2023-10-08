@@ -10,7 +10,7 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 - 🧪 INTERMEDIATE - PHP, SQL, Flutter -->      
 ## OPEN SOURCE PROJECTS AND LINKS 👇    
  
-##### 🎉 [WEBZ SOCIAL NETWORK ](https://webz-client.vercel.app)
+##### 🎉 [WEBZ SOCIAL NETWORK ](https://webz-client.vercel.app) 
 #####  ❤️ [REACT TODO WEB APP](https://react-web-todo.netlify.app/)
 ##### 📚 [WEBBY WEB3 E-LEARNING PLATFORM ](https://athul-22.github.io/WEBBY-WEB-3-LEARNING-PLATFORM/)
 ##### 🤖 [OPEN SEARCH BOT - GET MOST PRECISE ANSWERS](https://athul-22.github.io/OPEN-SEARCH-BOT/)
