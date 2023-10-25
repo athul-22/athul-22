@@ -22,7 +22,7 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 ##### 🍀 [RESPONSIVE NAVIGATION MENU](https://athul-22.github.io/responsive-navigation)
 ##### 📚 [CALCULATOR](https://athul-22.github.io/calculator)
 ---
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=athul22)](https://holopin.io/@athul22)
+<!--[![@rphi's Holopin board](https://holopin.io/api/user/board?user=athul22)](https://holopin.io/@athul22)-->
 
 ![](https://komarev.com/ghpvc/?username=athul-22&style=flat-square)
 
