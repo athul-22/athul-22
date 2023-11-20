@@ -24,6 +24,12 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 ---
 <!--[![@rphi's Holopin board](https://holopin.io/api/user/board?user=athul22)](https://holopin.io/@athul22)-->
 
+## 🧑‍💻 Leetcode Stats
+<p align="center">
+  <img  src="https://leetcard.jacoblin.cool/athulnambiar22?theme=dark&font=ABeeZee&ext=heatmap"/>
+</p>
+
+
 ![](https://komarev.com/ghpvc/?username=athul-22&style=flat-square)
 
 
