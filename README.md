@@ -38,10 +38,10 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 </table>
 
 
-## 🧑‍💻 Leetcode Stats
+<!--- ## 🧑‍💻 Leetcode Stats
 <p align="center">
   <img  src="https://leetcard.jacoblin.cool/athulnambiar22?theme=dark&font=ABeeZee&ext=heatmap"/>
-</p>
+</p> -->
 
 
 ![](https://komarev.com/ghpvc/?username=athul-22&style=flat-square)
