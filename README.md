@@ -27,7 +27,7 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
   <tr>
     <td>
       <a href="https://github.com/athul-22"><img alt="Athul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=athul-22&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
+    </td>                        
     <td>
       <a href="https://github.com/athul-22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=athul-22&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
