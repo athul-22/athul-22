@@ -7,7 +7,11 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 <!-- | Social Space | [Stoki](https://www.stoki.shop/) | adbit.in | -->  
 <!--- 🌱 I’m currently learning  Flutter, DSA  
 - ❤️ JavaScript, Bootstrap , C, C++ , JQuery , CSS3 , HTML5     
-- 🧪 INTERMEDIATE - PHP, SQL, Flutter -->      
+- 🧪 INTERMEDIATE - PHP, SQL, Flutter -->     
+## 🔮 AI OPEN SOURCE PROJECTS AND LINKS 👇 
+##### 🏞️ [DALLE CLONE - GEN AI IMAGE GENERATOR ](https://github.com/athul-22/dalle-clone) 
+##### 📚 [PDF -> VECTOR DATA - CHATBOT ](https://cu-ai-model.vercel.app) 
+
 ## OPEN SOURCE PROJECTS AND LINKS 👇    
  
 ##### 🎉 [WEBZ SOCIAL NETWORK ](https://webz-client.vercel.app) 
