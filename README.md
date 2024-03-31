@@ -44,6 +44,8 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
   </tr>
 </table>
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athul-22&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+
 
 <!--- ## 🧑‍💻 Leetcode Stats
 <p align="center">
