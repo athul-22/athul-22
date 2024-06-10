@@ -12,10 +12,10 @@ FullStack Developer | App , UI , UX Developer |  Exploring curiously |
 
 
 ## 🔮 AI OPEN SOURCE PROJECTS AND LINKS 👇 
-##### 🏞️ [DALLE CLONE - GEN AI IMAGE GENERATOR ](https://github.com/athul-22/dalle-clone) 
 ##### 📚 [PDF -> VECTOR DATA - CHATBOT ](https://cu-ai-model.vercel.app) 
 ##### 🍀 [CNN - BLIGHT DISEASE PREDICTION MODEL](https://github.com/athul-22/CNN-BlightPotato-disease-Analysis)
 ##### 🔆 [GEMINI - MULTI CUSINE NAME GENERATOR](https://github.com/athul-22/Restaurant-name-generator)
+##### 🏞️ [DALLE CLONE - GEN AI IMAGE GENERATOR ](https://github.com/athul-22/dalle-clone) 
 ##### 📊 [SYNTHETIC DATA GENERATOR](https://github.com/athul-22/Gemini-Gen-Ai-Hackathon)
 
 ## OPEN SOURCE PROJECTS AND LINKS 👇    
