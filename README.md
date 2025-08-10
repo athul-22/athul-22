@@ -16,11 +16,12 @@
 
 
 ## 🔮 AI OPEN SOURCE PROJECTS AND LINKS 👇 
-##### 📚 [PDF -> VECTOR DATA - CHATBOT ](https://cu-ai-model.vercel.app) 
-##### 🍀 [CNN - BLIGHT DISEASE PREDICTION MODEL](https://github.com/athul-22/CNN-BlightPotato-disease-Analysis)
-##### 🔆 [GEMINI - MULTI CUSINE NAME GENERATOR](https://github.com/athul-22/Restaurant-name-generator)
-##### 🏞️ [DALLE CLONE - GEN AI IMAGE GENERATOR ](https://github.com/athul-22/dalle-clone) 
-##### 📊 [SYNTHETIC DATA GENERATOR](https://github.com/athul-22/Gemini-Gen-Ai-Hackathon)
+##### 📚 [GPT 3 LLM Architecture from Scratch ](https://github.com/athul-22/LLM-from-scratch) 
+##### 📚 [RAG,KAG Chat Agent ](https://cu-ai-model.vercel.app) 
+##### 🍀 [CNN - Blight Disease Prediction model using CNN](https://github.com/athul-22/CNN-BlightPotato-disease-Analysis)
+##### 🔆 [Fullstack GenAI - Multi Cuisine Generator](https://github.com/athul-22/Restaurant-name-generator)
+##### 🏞️ [DALLE Clone - GEN AI Image Generator](https://github.com/athul-22/dalle-clone) 
+##### 📊 [Synthetic Data Generator](https://github.com/athul-22/Gemini-Gen-Ai-Hackathon)
 
 ## OPEN SOURCE PROJECTS AND LINKS 👇    
  
