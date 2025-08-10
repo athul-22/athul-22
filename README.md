@@ -16,7 +16,7 @@
 
 
 ## 🔮 AI OPEN SOURCE PROJECTS AND LINKS 👇 
-##### 📚 [GPT 3 LLM Architecture from Scratch ](https://github.com/athul-22/LLM-from-scratch) 
+##### 🧠 [GPT 3 LLM Architecture from Scratch ](https://github.com/athul-22/LLM-from-scratch) 
 ##### 📚 [RAG,KAG Chat Agent ](https://cu-ai-model.vercel.app) 
 ##### 🍀 [CNN - Blight Disease Prediction model using CNN](https://github.com/athul-22/CNN-BlightPotato-disease-Analysis)
 ##### 🔆 [Fullstack GenAI - Multi Cuisine Generator](https://github.com/athul-22/Restaurant-name-generator)
@@ -24,18 +24,16 @@
 ##### 📊 [Synthetic Data Generator](https://github.com/athul-22/Gemini-Gen-Ai-Hackathon)
 
 ## OPEN SOURCE PROJECTS AND LINKS 👇    
- 
-##### 🎉 [WEBZ SOCIAL NETWORK ](https://webz-client.vercel.app) 
-#####  ❤️ [REACT TODO WEB APP](https://react-web-todo.netlify.app/)
-##### 📚 [WEBBY WEB3 E-LEARNING PLATFORM ](https://athul-22.github.io/WEBBY-WEB-3-LEARNING-PLATFORM/)
-##### 🤖 [OPEN SEARCH BOT - GET MOST PRECISE ANSWERS](https://athul-22.github.io/OPEN-SEARCH-BOT/)
-##### 🌈 [MIC OS - ALT OF MAC OS](https://athul-22.github.io/micos/)
-##### 🌦️ [WEATHER USING API](https://athul-22.github.io/weather)
-##### 🏞️ [IMAGE EDITOR - ONLINE](https://athul-22.github.io/image-editor-online)
-##### 🔐 [PASSWORD STRENGTH INDICATOR](https://athul-22.github.io/password-strength-indicator) 
-##### 📝 [TODO LIST](https://athul-22.github.io/todo/)
-##### 🍀 [RESPONSIVE NAVIGATION MENU](https://athul-22.github.io/responsive-navigation)
-##### 📚 [CALCULATOR](https://athul-22.github.io/calculator)
+
+##### 🍀 [Character AI Coach Builder AI x Fullstack](https://github.com/athul-22/CharacterAiCoach) 
+##### 🛍️ [AI Shopping Agent](https://github.com/athul-22/myshoppy.ai) 
+##### 🔆 [SEAD - SUI Blockchain AD Protocol ](https://github.com/athul-22/SEAD-Sui-Ecosystem-for-Ads-Data-) 
+##### 🤑 [CreditChain - Blockchain Lending Protocol on ETH (Multichain Supported)](https://github.com/athul-22/CreditChain) 
+##### 🎉 [WEBZ Social Network ](https://webz-client.vercel.app) 
+##### 📚 [WEBBY Web3 E-Learning Platform ](https://athul-22.github.io/WEBBY-WEB-3-LEARNING-PLATFORM/)
+##### 🤖 [OPEN Search Bot - NLP ](https://athul-22.github.io/OPEN-SEARCH-BOT/)
+##### 🌈 [MIC OS - Mac OS Clone](https://athul-22.github.io/micos/)
+
 ---
 <!--[![@rphi's Holopin board](https://holopin.io/api/user/board?user=athul22)](https://holopin.io/@athul22)-->
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:** ️<table>
