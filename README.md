@@ -1,6 +1,7 @@
 ## Hi there,👋 Iam Athul Nambiar 
   - 🚀 Building [SapioAgents](http://sapioagents.com) ✨
-  - Connect on 𝕏 [Athul Nambiar](http://x.com/iathulnambiar) 
+  - Connect on 𝕏 [Athul Nambiar](http://x.com/iathulnambiar)
+  - Connect on Linkedin� [Athul Nambiar](http://linkedin.com/in/athulnambiar/) 
 
 <br>
 
